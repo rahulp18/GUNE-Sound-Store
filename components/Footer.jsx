@@ -9,7 +9,7 @@ const Footer = () => {
         <a href="https://www.instagram.com/__avk__07/">
         <AiFillInstagram/>
         </a>
-      <a href="https://github.com/">
+      <a href="https://github.com/CodeAvk">
       <AiOutlineGithub/>
       </a>
      
