@@ -6,10 +6,10 @@ const Footer = () => {
     <div className="footer-container">
       <p>2022 GUNE Headphones All rights reserverd</p>
       <p className="icons">
-        <a href="https://www.instagram.com/rahulp18.io/">
+        <a href="https://www.instagram.com/__avk__07/">
         <AiFillInstagram/>
         </a>
-      <a href="https://github.com/rahulp18">
+      <a href="https://github.com/">
       <AiOutlineGithub/>
       </a>
      
